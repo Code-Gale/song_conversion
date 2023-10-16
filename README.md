@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# song_conversion
-Song conversion i.e from audio to solfa to midi notes
-i am losttttr 🥲😭
-=======
 # Audio to MIDI Converter
 
 ## Project Overview
