@@ -85,7 +85,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions or feedback, please contact [Your Name](mailto:codedsinger@gmail.com).
+For any questions or feedback, please contact [Code Singer](mailto:codedsinger@gmail.com).
 
 Enjoy converting audio to MIDI with this tool!
 >>>>>>> 5f3a66d (Updated readme)
